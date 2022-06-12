@@ -1,4 +1,4 @@
-
+<center>
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Bryan+Lima....;Nice+to+meet+you!&center=true&size=30">
@@ -31,7 +31,7 @@
 
 
 ***  
-<center>
+
 
 <h5 align="center">
 <br>
