@@ -48,6 +48,10 @@
 <h2 align="center"> Languages & Frameworks & Tools & Abilities </h2>
 
 <br>
+
+
+
+<div align="center">
   <code><img title="Springboot" height="30" src="images/spring.jpeg">  </code>
   <code><img title="Javascript" height="30" src="images/javascript.svg">  </code>
   <code><img title="HTML5" height="30" src="images/html5.svg">  </code>
@@ -61,6 +65,8 @@
   <code><img title="GitHub" height="30" src="images/github.svg">  </code>
   <code><img title="MySQL" height="30" src="images/mysql.svg">  </code>
   <code><img title="npm" height="30" src="images/npm.svg">  </code>
+
+</div>
 
 
 
