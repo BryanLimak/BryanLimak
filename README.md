@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Bryan Lima....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Bryan+Lima....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
 
@@ -77,11 +77,11 @@
 <br/>
 <div width="100%" align="center">
   <a align="left" href="https://github.com/BryanLimak/Grid-Bootstrap" title="Turkce-Heceleme-CPP"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=BryanLimak&repo=Grid-Bootstrap&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/BryanLimak/Ejercicio-API-NESS" title="Copy&Move Forgery Detection With DCT"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=BryanLimak&repo=
-Ejercicio-API-NESS&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/BryanLimak/REUBICA" title="Algorithms"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=BryanLimak&repo=Ejercicio-API-NESS&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
-<br/><br/><br/><br/><br/><br/>
+<br/><br/>
 
 <h4 align="center">
   <a href="https://github.com/BryanLimak?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
+
