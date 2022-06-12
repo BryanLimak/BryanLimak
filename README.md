@@ -5,7 +5,7 @@
   </a>
 </h1>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h3 lign="center">⚡ Stats ⚡</h3
 <br>
 <p align=center>
   <div align=center>
@@ -38,7 +38,8 @@
   <code>
     <a href="https://www.linkedin.com/in/bryanalima/" title="LinkedIn Profile"><img width="40" src="images/linkedin.svg"></a> </code>
 </h5>
-    Bryan Lima
+   
+<h2 align="center">Bryan Lima</h2>
 <br>
 
 
