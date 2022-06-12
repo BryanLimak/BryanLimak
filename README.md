@@ -5,7 +5,7 @@
   </a>
 </h1>
 
-<h3 lign="center">⚡ Stats ⚡</h3
+  <h3 lign="center">⚡ Stats ⚡</h3>
 <br>
 <p align=center>
   <div align=center>
